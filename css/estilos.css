@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+     
+}
+body{
+    background-image: url(../img/fondo.jpg) 
+}
+.navbar{
+    background: black !important
+}
+ 
+.navbar-nav{
+    justify-content: space-between;
+    width: 100%;  
+}
+a.nav-link{
+    font-size: 30px
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px){
+    .logoNavBar {
+   
+        position: relative;
+        left: 35%
+        
+            
+        
+    }
+}
