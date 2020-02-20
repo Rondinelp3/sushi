@@ -1,7 +1,10 @@
 *{
     padding: 0;
     margin: 0;
-     
+   
+}
+#pepe{
+    text-decoration: none
 }
 body{
     background-image: url(../img/fondo.jpg) 
@@ -17,11 +20,17 @@ body{
 a.nav-link{
     font-size: 30px
 }
- 
+
+.hiper{
+  color: black
+}
 
 
 
-
+.boton_footer:hover{
+    background: yellow;
+    color: black !important
+}
 
 
 
