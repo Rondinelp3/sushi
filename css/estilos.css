@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Knewave|Noto+Sans|Roboto+Mono:700|Roboto+Slab&display=swap');
+</style>
+
 *{
     padding: 0;
     margin: 0;
@@ -33,7 +37,19 @@ a.nav-link{
 }
 
 
+/*fuentes*/
+.fuente1{
+    font-family: 'Roboto Mono', monospace;}
+.fuente2{
+    font-family: 'Roboto Slab', serif;
+}
+.fuente3{
+    font-family: 'Noto Sans', sans-serif;
+}
+.fuente4{
+    font-family: 'Knewave', cursive;
 
+}
 
 
 
